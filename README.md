@@ -1,16 +1,35 @@
-## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=vincefgt)](https://github.com/vincefgt/github-profile-trophy)
+<!-- PROFILE HEADER -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=150&section=header" width="100%" />-->
+<h1 align="center">Hey there, I'm Vince 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%26+TypeScript+Developer;Building+Modern+Web+Applications" />
+</p>
 
-<!--
-**vincefgt/vincefgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- ACHIEVEMENTS BADGE -->
+ <p align="center">
+  <img src="https://github-profile-trophy-ten-indol.vercel.app/?username=SayliDev&theme=dracula&row=1&column=6&rank=-C,-B,-%3F&no-bg=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- STATS + LANGUAGES -->
+<!--  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayliDev&layout=compact&theme=radical" alt="langs" width="48%" />
+</p>
+
+<!-- STREAK -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SayliDev&theme=radical&hide_border=false" alt="streak"/>
+</p>
+
+<!-- TECHNOLOGIES -->
+### 🚀 Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,threejs,redux,vite,nuxtjs,less,nestjs,emotion,firebase,nodejs,git,prisma,figma" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SayliDev/SayliDev/output/github-snake-dark.svg" alt="snake animation" />
+</p>
