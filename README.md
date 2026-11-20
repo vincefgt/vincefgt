@@ -10,7 +10,7 @@
 
 <!-- ACHIEVEMENTS BADGE -->
  <p align="center">
-  <img src="https://github-profile-trophy-ten-indol.vercel.app/?username=vincefgt&theme=aura&row=1&column=6&rank=-C,-B,-%3F&no-bg=true" />
+  <img src="https://github-profile-trophy-ten-indol.vercel.app/?username=vincefgt&theme=aura&row=1&column=6&no-bg=true&no-frame=true" />
 </p>
 
 <!-- STATS + LANGUAGES -->
