@@ -34,6 +34,7 @@
 </p>
 -->
 
+<!--
 <div align="center">
   <p align="center">
     <a href="https://github.com/vincefgt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -46,9 +47,8 @@
     <a href="https://github.com/vincefgt/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
     <a href="https://github.com/vincefgt/vincefgt.github.io"><img src="https://img.shields.io/badge/Use%20My%20Website%20Template-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website Template" /></a>
   </p>
-</div>
-
-
+</div>  -->
+<!--
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Skills & Tools
@@ -57,7 +57,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
 </div>
-
+-->
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   Contributions
