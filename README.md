@@ -10,26 +10,26 @@
 
 <!-- ACHIEVEMENTS BADGE -->
  <p align="center">
-  <img src="https://github-profile-trophy-ten-indol.vercel.app/?username=SayliDev&theme=dracula&row=1&column=6&rank=-C,-B,-%3F&no-bg=true" />
+  <img src="https://github-profile-trophy-ten-indol.vercel.app/?username=vincefgt&theme=aura&row=1&column=6&rank=-C,-B,-%3F&no-bg=true" />
 </p>
 
 <!-- STATS + LANGUAGES -->
-<!--  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayliDev&layout=compact&theme=radical" alt="langs" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincefgt&layout=compact&theme=aura" alt="langs" width="48%" />
 </p>
 
 <!-- STREAK -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SayliDev&theme=radical&hide_border=false" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vincfgt&theme=aura&hide_border=false" alt="streak"/>
 </p>
 
 <!-- TECHNOLOGIES -->
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,threejs,redux,vite,nuxtjs,less,nestjs,emotion,firebase,nodejs,git,prisma,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,threejs,php,java,redux,vite,nuxtjs,less,nestjs,emotion,firebase,nodejs,git,prisma,figma" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/SayliDev/SayliDev/output/github-snake-dark.svg" alt="snake animation" />
 </p>
