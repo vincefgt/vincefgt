@@ -20,7 +20,7 @@
 
 <!-- STREAK -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vincfgt&theme=aura&hide_border=false" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vincefgt&theme=aura&hide_border=false" alt="streak"/>
 </p>
 
 <!-- TECHNOLOGIES -->
