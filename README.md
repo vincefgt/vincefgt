@@ -83,10 +83,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincefgt/vincefgt/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vincefgt/vincefgt/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
-
+<!--
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vincefgt&theme=tokyonight" width="100%" />
-
-<img src="https://raw.githubusercontent.com/vincefgt/vincefgt/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+-->
+<img src="https://raw.githubusercontent.com/vincefgt/vincefgt/main/3d/profile-night-rainbow.svg" width="100%" />
 </div>
 
 <p align="center">
