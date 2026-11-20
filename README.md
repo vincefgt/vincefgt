@@ -95,5 +95,12 @@
 </div>
 
 <p align="center">
+## My Contribution Graph
+  <!-- [game-name] -->
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincefgt/vincefgt/output/[game-name]-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincefgt/vincefgt/output/[game-name]-contribution-graph.svg">
+      <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/vincefgt/vincefgt/output/pacman-contribution-graph.svg">
+  </picture>
   <i>Thanks for visiting — let's build something intelligent together.</i>
 </p>
