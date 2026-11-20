@@ -1,4 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=vincefgt)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- PROFILE HEADER -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=150&section=header" width="100%" />-->
 <h1 align="center">Hey there, I'm Vince 👋</h1>
@@ -27,12 +26,13 @@
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,threejs,php,java,redux,vite,nuxtjs,less,nestjs,emotion,firebase,nodejs,git,prisma,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,threejs,php,java,vite,nuxtjs,less,nestjs,firebase,nodejs,git,figma" />
 </p>
 <!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/SayliDev/SayliDev/output/github-snake-dark.svg" alt="snake animation" />
 </p>
+-->
 
 <div align="center">
   
