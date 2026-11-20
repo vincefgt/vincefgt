@@ -16,13 +16,6 @@ jobs:
         timeout-minutes: 20
 
         steps:
-            - name: generate pacman game from github contribution grid
-                uses: abozanona/pacman-contribution-graph@v5.0.0
-              with:
-                github_user_name: ${{ github.repository_owner }}
-                games: 'pacman,breakout'
-                hide_month_labels: 'false'
-
             - name: generate contribution graph SVGs
               uses: abozanona/pacman-contribution-graph@main
               with:
