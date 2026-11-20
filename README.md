@@ -39,6 +39,7 @@
   
   <p align="center">
     <a href="https://github.com/vincefgt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+   <!--
     <a href="mailto:zephyrzhong248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://orcid.org/0009-0003-0132-2036"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
     <a href="https://scholar.google.com/citations?user=your-id"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
@@ -47,6 +48,7 @@
     <img src="https://img.shields.io/github/stars/vincefgt?affiliations=OWNER&style=for-the-badge&color=06B6D4&labelColor=0d1117" alt="星标" />
     <a href="https://github.com/vincefgt/awesome-github-readme-profile"><img src="https://img.shields.io/badge/Use%20This%20Template-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Use This Template" /></a>
     <a href="https://github.com/vincefgt/vincefgt.github.io"><img src="https://img.shields.io/badge/Use%20My%20Website%20Template-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Website Template" /></a>
+    -->
   </p>
 </div>
 
