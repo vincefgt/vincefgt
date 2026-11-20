@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=vincefgt)](https://github.com/vincefgt/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vincefgt)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- PROFILE HEADER -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=150&section=header" width="100%" />-->
 <h1 align="center">Hey there, I'm Vince 👋</h1>
