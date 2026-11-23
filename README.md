@@ -2,7 +2,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=150&section=header" width="100%" />-->
 <h1 align="center">Hey there, I'm Vince 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%26+TypeScript+Developer;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Ux/UI+Designer;Building+Stunning+Web+Applications" />
 </p>
 
 <br/>
